@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with vip Extension for Alfred for macOS - disk-analysis and app-uninstaller, the #1 extension. Includes disk-analysis and app-uninstaller for a smoother
 
 
 
